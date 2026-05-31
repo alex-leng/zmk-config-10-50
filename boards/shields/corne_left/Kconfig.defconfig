@@ -1,0 +1,6 @@
+if corne_left
+
+config hwcorne 
+    default "corne_left"
+
+    endif
