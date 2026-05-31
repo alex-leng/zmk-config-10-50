@@ -14,7 +14,7 @@
 
         /* Cols: P0.09, P0.10, P1.11, P1.13, P1.15, P0.02 */
         col-gpios = <&gpio0 9  GPIO_ACTIVE_HIGH>,
-                    <&gpio0 10 GPIO_ACTIVE_ HIGH>,
+                    <&gpio0 10 GPIO_ACTIVE_HIGH>,
                     <&gpio1 11 GPIO_ACTIVE_HIGH>,
                     <&gpio1 13 GPIO_ACTIVE_HIGH>,
                     <&gpio1 15 GPIO_ACTIVE_HIGH>,
@@ -48,5 +48,3 @@
         label = "OLED";
     };
 };
-
-
