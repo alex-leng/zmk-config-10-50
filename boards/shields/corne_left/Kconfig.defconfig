@@ -1,6 +1,7 @@
-if corne_left
+if SHIELD_CORNE_LEFT
 
 config hwcorne 
+    string
     default "corne_left"
 
-    endif
+endif
